@@ -14,7 +14,7 @@ I am a graduate student at the School of Statistics, Renmin University of China,
 
 My research interests include statistical machine learning, single-cell foundation models, masked discrete diffusion, and efficient long-horizon LLM agents. I am particularly interested in building reliable and efficient AI systems for scientific discovery and complex reasoning tasks.
 
-I have been working as a research intern under the mentorship of Prof. Yanbiao Ma at the Gaoling School of Artificial Intelligence, Renmin University of China.
+I am currently conducting research under the mentorship of Dr. Yanbiao Ma at the Gaoling School of Artificial Intelligence, Renmin University of China.
 
 # 🔥 News
 
