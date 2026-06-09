@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student at the School of Statistics, Renmin University of China, starting from September 2025. Before that, I received my B.S. degree in Statistics from Jilin University.
+I am a graduate student at the School of Statistics, Renmin University of China, starting from September 2025. I am supervised by Prof. Yanbiao Ma at the Gaoling School of Artificial Intelligence, Renmin University of China. Before that, I received my B.S. degree in Statistics from Jilin University.
 
 My research interests include statistical machine learning, single-cell foundation models, masked discrete diffusion, and efficient long-horizon LLM agents. I am particularly interested in building reliable and efficient AI systems for scientific discovery and complex reasoning tasks.
 
