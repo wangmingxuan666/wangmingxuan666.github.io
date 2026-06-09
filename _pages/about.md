@@ -39,6 +39,16 @@ Published on May 1, 2026.
 </div>
 </div>
 
+# 🎖 Honors and Awards
+
+* *2022–2023*, **National Scholarship**, Ministry of Education of China.
+* *2022–2023*, **Zhao Yue Scholarship**, Jilin University.
+* *2022–2023*, **Quan Ronghao Scholarship**, Jilin University.
+* *2023–2024*, **Qi An Xin Scholarship**.
+* *2023–2024*, **First Prize**, Jilin Provincial Contest, Contemporary Undergraduate Mathematical Contest in Modeling.
+* *2023–2024*, **Second Prize**, Jilin Provincial Undergraduate Mathematics Competition.
+* Multiple honors including **First-Class Scholarship**, **Outstanding Student**, and **Outstanding Student Cadre** at Jilin University.
+
 # 🎓 Education
 
 **Renmin University of China**, School of Statistics  
